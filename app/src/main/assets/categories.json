@@ -1,0 +1,17 @@
+ [
+    {
+      "category_id": "02e9ef5c-8700-11e9-bc42-526af7764f64",
+      "name": "Work",
+      "icon": "http://localhost/work.png"
+    },
+    {
+      "category_id": "c9bc6d8a-8700-11e9-bc42-526af7764f64",
+      "name": "Home",
+      "icon": "http://localhost/home.png"
+    },
+    {
+      "category_id": "cdedd6d2-8700-11e9-bc42-526af7764f64",
+      "name": "Friends",
+      "icon": "http://localhost/friends.png"
+    }
+  ]
